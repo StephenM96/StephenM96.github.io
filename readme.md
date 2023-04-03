@@ -1,0 +1,1 @@
+Plans for webpage: 1: Photo - top left-ish page 2: Bio page 3: professional history & Contact info 4: hard and soft skills: 5: Links to other sources for me 6: Follow me on Social Media! [bottom of page](Facebook, LinkedIn, GitHub, etc)
