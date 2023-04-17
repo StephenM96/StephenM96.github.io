@@ -46,6 +46,29 @@ html {
   background-color: #0099cc;
 }
 
+.sidenav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  /* font-size: 11px; */
+}
+
+.sidenav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.sidenav a:hover {
+  background-color: #0099cc;
+}
+
 .header {
   padding: 15px;
 }
